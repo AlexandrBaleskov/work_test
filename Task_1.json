@@ -1,0 +1,236 @@
+[
+    {
+        "address": "Esmeralda 940 L.4 - Valparaíso",
+        "latlon": [
+            -33.0410592,
+            -71.6259646
+        ],
+        "name": "Valparaíso",
+        "phones": "71-2201096",
+        "working_hours": [
+            " Mañana: 08.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    },
+    {
+        "address": "San Antonio 399 - Santiago",
+        "latlon": [
+            29.4251905,
+            -98.4945922
+        ],
+        "name": "Santiago",
+        "phones": "71-2201020",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Bernardo O Higgins 479 - San Fernando",
+        "latlon": [
+            null,
+            null
+        ],
+        "name": "San Fernando",
+        "phones": "71-2201048",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Claudina Urrutia 356 - Cauquenes",
+        "latlon": [
+            -35.9681382,
+            -72.314618
+        ],
+        "name": "Cauquenes",
+        "phones": "71-2201004",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Merced 263 - Curicó",
+        "latlon": [
+            -34.9846175,
+            -71.23839720000001
+        ],
+        "name": "Curicó",
+        "phones": "71-2201046",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Quechereguas 1783 - Molina",
+        "latlon": [
+            -35.1129944,
+            -71.2804021
+        ],
+        "name": "Molina",
+        "phones": "71-2201021",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Maipú 360 - Linares",
+        "latlon": [
+            -35.8474419,
+            -71.59875219999999
+        ],
+        "name": "Linares",
+        "phones": "71-2201007",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Anibal Pinto 879 - Parral",
+        "latlon": [
+            -36.1409778,
+            -71.8203577
+        ],
+        "name": "Parral",
+        "phones": "71-2201003",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Arturo Prat 2639 - San Javier",
+        "latlon": [
+            -35.5942611,
+            -71.73437489999999
+        ],
+        "name": "San Javier",
+        "phones": "71-2201008",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Montt 262 - Constitución",
+        "latlon": [
+            -35.3305207,
+            -72.4096557
+        ],
+        "name": "Constitución",
+        "phones": "71-2201009",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Plaza de Armas s/n - Curepto",
+        "latlon": [
+            -35.0958545,
+            -72.02088909999999
+        ],
+        "name": "Curepto",
+        "phones": "71-2201018",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Huamachuco 810 - San Clemente",
+        "latlon": [
+            -35.5382,
+            -71.48747
+        ],
+        "name": "San Clemente",
+        "phones": "71-2201005",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "14 Oriente 968 - Talca",
+        "latlon": [
+            -35.4300285,
+            -71.6452635
+        ],
+        "name": "Talca - 14 Oriente",
+        "phones": "71-2201102",
+        "working_hours": [
+            " Continuado: 8.50 a 17.10 hrs. (L a J)",
+            " Continuado: 8.50 a 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Valdivia 320 - Los Ángeles",
+        "latlon": [
+            -37.4697,
+            -72.35280999999999
+        ],
+        "name": "Los Ángeles",
+        "phones": "71-2201098",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Barros Arana 519 - Concepción",
+        "latlon": [
+            -36.8268371,
+            -73.0522878
+        ],
+        "name": "Concepción",
+        "phones": "71-2201093",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "18 de Septiembre 618 - Chillán",
+        "latlon": [
+            -36.607365,
+            -72.104558
+        ],
+        "name": "Chillán",
+        "phones": "71-2201062",
+        "working_hours": [
+            " Mañana: 08.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Manuel Bulnes 649, local 2A - Temuco",
+        "latlon": [
+            -38.7400396,
+            -72.5893011
+        ],
+        "name": "Temuco",
+        "phones": "71-2201067",
+        "working_hours": [
+            " Mañana: 08.50 a 14.10 horas",
+            " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    },
+    {
+        "address": "Antonio Varas 472 - Puerto Montt",
+        "latlon": [
+            -41.4722626,
+            -72.9411176
+        ],
+        "name": "Puerto Montt",
+        "phones": "71-2201094",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    }
+]
